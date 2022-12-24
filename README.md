@@ -6,17 +6,11 @@ make it work download this repository (`code > Download .zip`) and:
 1.   Install the font Fira (which allows to use ligatures), included in
     this repository
 
-```{=html}
-<!-- -->
-```
 2.  Ensure "Highlight R function calls" is ticked in Rstudio.
 
     To do so, in Rstudio go to
     `Tools > Global Options > Code > Display > Syntax`
 
-```{=html}
-<!-- -->
-```
 3.  Add `Pablo_RS.rstheme` to Rstudio themes:
 
     To do so, go to `Tools > Global Options > Appearance > Add`
